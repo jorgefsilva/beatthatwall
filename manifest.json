@@ -8,6 +8,7 @@
       "activeTab",
       "scripting"
     ],
+    "icons": {},
     "background": {
       "service_worker": "main.js"
     }
