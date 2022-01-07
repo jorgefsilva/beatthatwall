@@ -1,0 +1,14 @@
+{
+    "name": "Beat that wall",
+    "action": {},
+    "manifest_version": 3,
+    "version": "0.1",
+    "description": "Tries to Bypass any paywall",
+    "permissions": [
+      "activeTab",
+      "scripting"
+    ],
+    "background": {
+      "service_worker": "main.js"
+    }
+}
