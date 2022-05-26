@@ -2,8 +2,8 @@
     "name": "Beat that wall",
     "action": {},
     "manifest_version": 3,
-    "version": "0.1",
-    "description": "Tries to Bypass any paywall",
+    "version": "1.1",
+    "description": "Bypass any paywall",
     "permissions": [
       "activeTab",
       "scripting"
