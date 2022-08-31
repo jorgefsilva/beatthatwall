@@ -2,11 +2,13 @@
 // @name         BeatThatWall
 // @namespace    jayass
 // @version      0.1
-// @description  try to take over the world!
+// @updateURL    https://raw.githubusercontent.com/jorgefsilva/beatthatwall/main/main.tampermonkey.js
+// @description  Beat any paywall with just a click!
 // @author       Jorge Silva
-// @match        http://*/*
+// @match        https://*/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
+// @run-at       context-menu
 // ==/UserScript==
 
 (function() {
